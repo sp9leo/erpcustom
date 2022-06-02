@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "erpcustom"
-app_title = "ErpCustom"
+app_title = "erpcustom"
 app_publisher = "Formis"
 app_description = "erpnext customization"
 app_icon = "octicon octicon-file-directory"
