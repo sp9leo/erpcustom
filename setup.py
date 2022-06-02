@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
 from erpcustom import __version__ as version
 
 setup(
-	name="ErpCustom",
+	name="erpcustom",
 	version=version,
 	description="ERP customization",
 	author="Formis",
